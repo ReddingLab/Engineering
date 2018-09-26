@@ -1,3 +1,5 @@
-.DS_Store
-
+# will it ignore itself????
 .gitignore
+
+
+.DS_Store
